@@ -12,7 +12,7 @@ This repository contains a dashboard for analyzing King county, washingston hous
 
 ## Dashboard Preview
 
-![Dashboard Preview](House sales dashboard.png)
+![Dashboard Preview](House sales Dashboard.png)
 
 ## Dashboard Components
 
