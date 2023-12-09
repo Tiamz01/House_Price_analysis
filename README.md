@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a dashboard for analyzing King county, washingston housing sales data. The dashboard provides visual insights into the sales price, bedroom, bathroom distributions
+This repository contains a dashboard for analyzing King County, Washington housing sales data. The dashboard provides visual insights into the sales price, bedroom, bathroom distributions
 ## Features
 
 - Visual representations of housing sales data
@@ -12,7 +12,7 @@ This repository contains a dashboard for analyzing King county, washingston hous
 
 ## Dashboard Preview
 
-![Dashboard Preview](House sales Dashboard.png)
+![Dashboard Preview](House_sales_Dashboard.png)
 
 ## Dashboard Components
 
